@@ -3,6 +3,7 @@
   "displayName": "reverse-engineering",
   "description": "",
   "version": "0.0.1",
+  "type":"module",
   "engines": {
     "vscode": "^1.95.0"
   },
